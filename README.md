@@ -1,5 +1,5 @@
   ```c++
-  cout << "ʜᴇʟʟᴏ, ᴍʏ ɴᴀᴍᴇ ɪs ʟᴏɴᴇʟʏᴡʜɪᴛᴇ" << endl;
+  cout << "hello, my name is lonelywhite" << endl;
   ```
 
 <div id="header" align="center">
