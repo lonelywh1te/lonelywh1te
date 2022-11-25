@@ -1,16 +1,16 @@
-### Hi there 👋
+  ```c++
+  cout << "ʜᴇʟʟᴏ, ᴍʏ ɴᴀᴍᴇ ɪs ʟᴏɴᴇʟʏᴡʜɪᴛᴇ" << endl;
+  ```
 
-<!--
-**lonelywh1te/lonelywh1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300"/>
+</div>
+</div>
+<div id="badges">
+  <a href="https://t.me/lonelywh1te">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/mr.art1999">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK"/>
+  </a>
+</div>
