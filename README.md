@@ -1,7 +1,3 @@
-  ```c++
-  cout << "hello, my name is lonelywhite" << endl;
-  ```
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400"/>
 </div>
