@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
   <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400"/>
 </div>
 </div>
