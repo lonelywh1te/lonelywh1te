@@ -1,12 +1,29 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="1500"/>
-</div>
-</div>
-<div id="badges" align="center">
-  <a href="https://t.me/lonelywh1te">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-  </a>
-  <a href="https://vk.com/mr.art1999">
-    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoeGM3dG9iaGY5c3F0dGo2d2prd2c0dGQ2dXNuYm5oOWtuYmZibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfZgOoB9rePainuaZ6/giphy.gif" alt="Hi, I'm Artyom | Android Developer" width="500"/>
+</p>
+
+## 🚀 Projects
+
+**[IntroGym](https://github.com/IntroGymApp/intro-gym-android)**  
+**[Tasks](https://github.com/lonelywh1te/kotlin-tasklist)**  
+
+*More coming soon...*  
+
+## 🛠 Tech I Used
+
+- **Languages**: Kotlin
+- **Architecture**: MVVM, Clean
+- **Reactive & Async**: Kotlin Coroutines, Flow, LiveData
+- **UI**: Android Views, Navigation Component, FlexboxLayout
+- **Data**: Room, Retrofit2, Gson, Kotlinx Serialization
+- **Image & Charts**: Glide, MPAndroidChart
+- **Testing**: JUnit5, MockK
+
+## 📬 Contacts
+<a href="https://t.me/lonelywh1te">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram" alt="Telegram"/>
+</a>
+
+## 📈 Profile Stats
+
+![lonelywh1te's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonelywh1te&show_icons=true&theme=ocean_dark)
