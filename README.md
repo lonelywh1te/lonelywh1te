@@ -14,9 +14,11 @@
 - **Languages**: Kotlin
 - **Architecture**: MVVM, Clean
 - **Reactive & Async**: Kotlin Coroutines, Flow, LiveData
-- **UI**: Android Views, Navigation Component, FlexboxLayout
+- **UI**: Android Views, FlexboxLayout
+- **Navigation**: Navigation Component
 - **Data**: Room, Retrofit2, Gson, Kotlinx Serialization
 - **Image & Charts**: Glide, MPAndroidChart
+- **DI**: Koin
 - **Testing**: JUnit5, MockK
 
 ## 📬 Contacts
