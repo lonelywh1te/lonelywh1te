@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoeGM3dG9iaGY5c3F0dGo2d2prd2c0dGQ2dXNuYm5oOWtuYmZibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qfZgOoB9rePainuaZ6/giphy.gif" alt="Hi, I'm Artyom | Android Developer" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyN2E3bnFiemt5djc5dXJocjYxMW1pZnNxc2MxYmxtcHltczFnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9eIulT8pJ3ypMzNWLx/giphy.gif" alt="Hi, I'm Artyom | Android Developer" width="500"/>
 </p>
 
 ## 🚀 Projects
